@@ -423,10 +423,13 @@ hr{
     
   }
   .p-img{
-    width: 100%;
+    width: 74%;
     
   }
   .simple{
+    flex-direction: column;
+  }
+  .img-content{
     flex-direction: column;
   }
 }
