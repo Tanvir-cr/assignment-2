@@ -435,8 +435,8 @@ hr{
 }
 
 @media screen and (max-width:600px){
-  nav{
-    display: block;
+  header{
+    flex-direction: column;
   }
   .banner{
     margin-top: 40px;
