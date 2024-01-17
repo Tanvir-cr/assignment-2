@@ -382,19 +382,8 @@ font-size: 16px;
 font-weight: 100;
 padding-top: 10px;
 }
-
-
-.social-link{
-  text-decoration: none;
-  padding-top: 20px;
-  font-size: 25px;
- margin-left: 42%;
-}
-
-
-.social-link i{
-  color: black;
-  padding-right: 13px;
+.midia{
+  text-align: center;
 }
 
 hr{
