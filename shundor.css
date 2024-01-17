@@ -262,6 +262,7 @@ line-height: 1.625rem;
   font-size: 40px;
   text-align: center;
   padding-top: 100px;
+  font-family: Mulish;
 }
 .simple{
   width: 100%;
@@ -270,6 +271,7 @@ line-height: 1.625rem;
   align-items: center;
   display:flex;
   flex-wrap: wrap;
+  font-family: Mulish;
 
 }
 .simple div{
@@ -282,12 +284,14 @@ line-height: 1.625rem;
   align-items: center;
   padding: 10px;
   margin: 0 auto;
+  font-family: Mulish;
 
 }
 
 .title {
   text-align: center;
   padding: 10px;
+  font-family: Mulish;
 }
 
 .title-B {
@@ -297,7 +301,7 @@ line-height: 1.625rem;
   align-items: center;
   display: flex;
   flex-wrap: wrap;
-
+  font-family: Mulish;
 }
 
 .title-B div {
@@ -307,6 +311,7 @@ line-height: 1.625rem;
   margin: 10px;
   border-radius: 16px;
   padding: 20px;
+  font-family: Mulish;
 }
 
 .service-section img {
@@ -316,21 +321,24 @@ line-height: 1.625rem;
 
 .service-section B {
   padding-top: 5px;
+  font-family: Mulish;
 }
 
 .service-section p {
   padding-top: 10px;
+  font-family: Mulish;
 }
 .Newsletter {
   display: flex;
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
-
+  font-family: Mulish;
 }
 
 .p {
   margin-bottom: 12px;
+  font-family: Mulish;
 }
 
 .input-button {
@@ -338,12 +346,14 @@ line-height: 1.625rem;
   border-radius: 8px;
   border: 1px solid rgba(19, 19, 24, 0.05);
   width: 80%;
+  font-family: Mulish;
 
 }
 .Newsletter input {
   width: 50%;
   margin: 10px;
   padding: 10px;
+  font-family: Mulish;
 }
 .p70{
   color: #FFF;
@@ -366,7 +376,7 @@ margin-top: -180px;
   border: 2px solid #FF5400;
   padding: 40px;
   border-radius: 12px;
-
+  font-family: Mulish;
 
 
 }
@@ -385,11 +395,13 @@ margin-top: 100px;
 
 span{
   color: #FF5400;
+  font-family: Mulish;
 }
 
 .footer1 p{
   margin-left: 20%;
   margin-top: 10px;
+  font-family: Mulish;
 }
 
 .footer1 h6{
@@ -397,6 +409,7 @@ margin-left: 38%;
 font-size: 16px;
 font-weight: 100;
 padding-top: 10px;
+font-family: Mulish;
 }
 .midia{
   text-align: center;
@@ -412,6 +425,7 @@ hr{
 .copyright{
   padding-left: 21%;
   padding-top: 20px;
+  font-family: Mulish;
 }
 
 @media screen and (max-width:600px){
@@ -421,7 +435,7 @@ hr{
   .banner{
     margin-top: 40px;
   }
- .banner .banner-text .h2{
+.h2{
     font-size: 22px;
   }
  .p{
