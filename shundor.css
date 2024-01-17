@@ -49,6 +49,12 @@ font-style: normal;
 font-weight: 800;
 line-height: normal;
 }
+.h2{
+  font-size: 64px;
+}
+.p{
+  font-size: 16px;
+}
 .search {
   display: flex;
   justify-content: center;
@@ -436,13 +442,14 @@ hr{
     margin-top: 40px;
   }
 .h2{
-    font-size: 22px;
+    font-size: 32px;
   }
  .p{
     font-size: 14px
   }
   .search{
     flex-direction: column;
+    margin-top: 200px;
   }
   .populr-tours{
     flex-direction: column;
